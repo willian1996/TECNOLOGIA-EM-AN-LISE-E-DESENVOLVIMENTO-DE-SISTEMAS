@@ -1,0 +1,15 @@
+Aula ao Vivo 1: Unidade I
+Introdução à linguagem C, Variáveis, expressões, atribuição, entrada e saída de dados, Construindo programas em C
+Aulas Conceituais: 01 a 04.
+
+Aula ao Vivo 2: Unidades II e III
+Estruturas de Decisão e Estruturas de Repetição
+Aulas Conceituais: 05 a 12.
+
+Aula ao Vivo 3: Unidade IV
+Registros (structs), Vetores, Matrizes
+Aulas Conceituais: 13 a 16.
+
+Aula ao Vivo 4: Unidade V
+Funções, Recursão, Arquivos
+Aulas Conceituais: 17 a 20.
